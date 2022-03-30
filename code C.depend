@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1637198178 source:d:\onedrive - actvn.edu.vn\code c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1637241363 source:d:\onedrive - actvn.edu.vn\code c\chess.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1637376705 source:d:\onedrive - actvn.edu.vn\code c\ngay thang hop le.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1637295298 source:d:\onedrive - actvn.edu.vn\code c\tong day so.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1637376395 source:d:\onedrive - actvn.edu.vn\code c\ngay lien truoc.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
